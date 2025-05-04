@@ -1,6 +1,6 @@
 # 📝 Task Management Application
 
-A simple Java console-based application to manage your daily tasks efficiently. This tool allows you to create, view, and remove tasks, all while storing them with due dates and saving your data persistently in a local file.
+A Java console-based application to manage your daily tasks efficiently. This tool allows you to create, view, and remove tasks, all while storing them with due dates and saving your data persistently in a local file.
 
 ---
 
